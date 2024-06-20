@@ -9,3 +9,4 @@
 9. [What are the clauses/states used in promise object in Node.js?](states-of-promise.md)
 10. [Applications of NodeJS in IT](nodejs-application.md)
 11. [Exit codes in NodeJS](exit-codes.md)
+12. [What causes server latency and prevents scalability in Node.js?](cause-of-latency.md)
