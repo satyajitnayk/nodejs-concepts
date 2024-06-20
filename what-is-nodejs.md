@@ -1,5 +1,7 @@
 Node.js is a runtime environment for executing JavaScript code outside of a web browser. It allows developers to use JavaScript to write server-side scripts, enabling them to build scalable and efficient network applications.
 
+> Remember: Node.js is not good with CPU-intensive applications.
+
 ### Core Components of Node.js:
 
 1. **V8 JavaScript Engine**:
