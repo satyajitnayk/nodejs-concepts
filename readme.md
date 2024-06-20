@@ -7,3 +7,4 @@
 7. [Advantages of Asynchronous operations](advantage-of-async.md)
 8. [What tasks can be done asynchronously with the help of an event loop?](tasks-done-using-eventloop.md)
 9. [What are the clauses/states used in promise object in Node.js?](states-of-promise.md)
+10. [Applications of NodeJS in IT](nodejs-application.md)
