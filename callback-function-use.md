@@ -1,3 +1,4 @@
+The call-back function is used to execute a function after a certain event has occurred.
 A callback function in JavaScript, and specifically in Node.js, is used to handle asynchronous operations and execute code after a task has been completed. 
 
 ### Purpose of Callback Functions:
