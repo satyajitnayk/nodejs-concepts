@@ -11,3 +11,4 @@
 11. [Exit codes in NodeJS](exit-codes.md)
 12. [What causes server latency and prevents scalability in Node.js?](cause-of-latency.md)
 13. [How does Node.js convert JavaScript code to optimized machine Code?](nodejs-convert-js-to-mc-code.md)
+14. [Define control function in Node.js with example](control-functions.md)
