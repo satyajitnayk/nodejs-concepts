@@ -1,4 +1,6 @@
-A child process in computing generally refers to a process that is spawned or created by another process. In the context of Node.js, child processes are commonly used to execute operating system commands, run other scripts or binaries, and perform tasks that need to be run independently of the main Node.js process. Here are a few scenarios and examples where child processes occur and are used:
+In Node.js, a child process occurs when a new process is created using the child_process module. This module provides functionality to spawn child processes in a similar way to the fork() system call in Unix.
+
+In the context of Node.js, child processes are commonly used to execute operating system commands, run other scripts or binaries, and perform tasks that need to be run independently of the main Node.js process. Here are a few scenarios and examples where child processes occur and are used:
 
 1. **Executing System Commands**:
    Node.js can spawn child processes to execute system commands like running shell scripts or executing native commands. This is particularly useful for tasks that require interaction with the underlying operating system.
