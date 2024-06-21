@@ -18,3 +18,4 @@
 18. [Is it possible to avoid callback hells and how?](avoid-callback-hell.md)
 19. [What is the function of the fs module?](fs-module.md)
 20. [Define os module in Node.js?](os-module.md)
+21. [Duplex streams with examples?](duplex-stream.md)
