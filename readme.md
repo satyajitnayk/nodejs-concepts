@@ -16,3 +16,5 @@
 16. [What is the call-back function used for?](callback-function-use.md)
 17. [Streaming vs Buffering](stream-vs-buffer.md)
 18. [Is it possible to avoid callback hells and how?](avoid-callback-hell.md)
+19. [What is the function of the fs module?](fs-module.md)
+20. [Define os module in Node.js?](os-module.md)
