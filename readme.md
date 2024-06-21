@@ -24,8 +24,10 @@
 24. [What is a Node Inspector?](node-inspector.md)
 25. [Which function is used to fire an event in nodejs?](fire-event.md)
 26. [Explain call back](callback.md)
-27. [Middleware functions in nodejs)[middleware.md]
+27. [Middleware functions in nodejs](middleware.md)
 28. [How many types of streams are there in Node.js?](stream-types.md)
 29. [What is the difference between setImmediate() and setTimeout()?](setImmediate-vs-setTimeout.md)
 30. [What two arguments do async.queue take?](args-for-async_queue.md)
 31. [What is the difference between an event and a callback?](event-vs-callback.md)
+32. [What is an error-first callback?](error-first-callback.md)
+33. [What are global objects?](global-object.md)
