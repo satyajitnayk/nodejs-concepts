@@ -1,7 +1,8 @@
 In Node.js, REPL stands for Read-Eval-Print Loop. 
 It's a programming environment that allows you to interactively run JavaScript code. 
 
-![nodejs repl](./images/nodej-repl.png)
+![image](https://github.com/satyajitnayk/nodejs-concepts/assets/32722867/4414cd1a-2a6e-4f9f-91fb-8e2e69164da7)
+
 
 ### Here’s what each part of the REPL does:
 
