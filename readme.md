@@ -37,3 +37,4 @@
 34. [Child Process in NodeJS](child-process.md)
 35. [Advantages of base64 encoding in Nodejs](base64-encoding.md)
 36. [What is the significance of the type field in the package.json file in Node.js, and how does it affect the interpretation of JavaScript files within a package?](type-field-pkg-json.md)
+37. [Generators Basics](generators.md)
